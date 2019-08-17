@@ -1,0 +1,9 @@
+#container {
+    background-color: blue;
+    text-align: center;
+}
+
+.jumbotron {
+    background-color: darkblue;
+    color: white;
+}
